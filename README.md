@@ -124,7 +124,8 @@ go build -o awvs-gui.exe .
 }
 ```
 欢迎关注公众号获取更多内容
-<img width="856" height="861" alt="image" src="https://github.com/user-attachments/assets/834e37cc-1a68-4b50-a41c-d24bd69a3cf2" />
+<img width="426" height="428" alt="image" src="https://github.com/user-attachments/assets/6138d3c0-1973-464a-ab4f-cf2b64ea88be" />
+
 
 ---
 
