@@ -8,7 +8,9 @@
 
 ## 截图预览
 
-> *(可在此处替换为实际截图)*
+<img width="1644" height="1168" alt="image" src="https://github.com/user-attachments/assets/4ce96884-0acc-4ef4-88b9-b7e751f5984b" />
+<img width="1642" height="1174" alt="image" src="https://github.com/user-attachments/assets/e19bf852-5da2-475d-b335-a0fa9a7abffe" />
+<img width="1649" height="1166" alt="image" src="https://github.com/user-attachments/assets/e61dbf77-08e3-4985-a250-6280e92b45f9" />
 
 ---
 
@@ -121,6 +123,8 @@ go build -o awvs-gui.exe .
   "zoomeye_key": ""
 }
 ```
+欢迎关注公众号获取更多内容
+<img width="856" height="861" alt="image" src="https://github.com/user-attachments/assets/834e37cc-1a68-4b50-a41c-d24bd69a3cf2" />
 
 ---
 
